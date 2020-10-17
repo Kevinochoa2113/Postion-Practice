@@ -1,0 +1,50 @@
+/*.float1{
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+    padding: 1rem;
+    float: left;
+    margin-right: 10px;
+}
+
+.float2{
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+    padding: 1rem;
+    float: right;
+    margin-right: 10px;
+}
+*/
+/*
+.float{
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+    padding: 1rem;
+    float: left;
+    margin-right: 10px;
+}
+
+.below{
+    clear: left;
+}
+*/
+.float{
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+    padding: 1rem;
+    float: right;
+    margin-right: 10px;
+}
+.box{
+    background-color: violet;
+    overflow: auto;
+    color: white;
+    padding: 10px;
+}
